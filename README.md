@@ -10,6 +10,6 @@ Welcome to my realm, where every day is an adventure waiting to be embraced with
 
 Explore the fundamentals of programming through a curated collection of notes from my time as a tutor for CS61A, the introductory computer science course at UC Berkeley. From foundational concepts to practical problem-solving techniques, these notes offer a comprehensive overview of the essentials of coding. Whether you're embarking on your coding journey or seeking to reinforce your understanding of programming basics, I hope these notes can act as a helpful resource!
 
-<TODO: add notes here>
+[Control & Environments](first.pdf)
 
 Have questions or need clarification? I'm here to help! Please feel free to reach out to me at ecomohr@gmail.com if you have any questions or need assistance as you navigate through these notes. I'm passionate about supporting fellow learners on their coding journey, and I'm more than happy to provide guidance or address any queries you may have. Let's learn and explore the world of programming together!
