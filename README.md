@@ -6,23 +6,24 @@ But beyond my passions lies a deeper story. Growing up, I harbored a fear of tec
 
 Welcome to my realm, where every day is an adventure waiting to be embraced with curiosity, enthusiasm, and a sprinkle of magic! :)
 
-## Introductory Programming: cs61a Tutoring Notes
+## Notes 
 
-Explore the fundamentals of programming through a curated collection of notes from my time as a tutor for CS61A, the introductory computer science course at UC Berkeley. From foundational concepts to practical problem-solving techniques, these notes offer a comprehensive overview of the essentials of coding. Whether you're embarking on your coding journey or seeking to reinforce your understanding of programming basics, I hope these notes can act as a helpful resource!
+Welcome to my collection of notes, inspired by my time at UC Berkeley where I had the opportunity to venture through courses like CS61A and beyond. These notes are like snapshots of my journey—a blend of learning, teaching, and the occasional "aha!" moment. Whether you're embarking on your coding journey or seeking to reinforce your understanding of programming basics, I hope these notes can act as a helpful resource!
 
-[Control & Environments](first.pdf)
-[Higher Order Functions & Environment Diagrams](second.pdf)
-[Recursion](third.pdf)
-[Lists + Trees](fourth.pdf)
-[OOP](fifth.pdf)
-[Linked Lists](sixth.pdf)
-[Scheme](seventh.pdf)
-[Review](eighth.pdf)
-[Macros](ninth.pdf)
-[More on Macros](tenth.pdf)
-[SQL Basics](sql.pdf)
-[Review](eleventh.pdf)
-[Practice Problem](another_problem.pdf)
+**CS61a : Structure and Interpretation of Computer Programs** \
+[Control & Environments](first.pdf) \
+[Higher Order Functions & Environment Diagrams](second.pdf) \
+[Recursion](third.pdf) \
+[Lists + Trees](fourth.pdf) \
+[OOP](fifth.pdf) \
+[Linked Lists](sixth.pdf) \
+[Scheme](seventh.pdf) \
+[Review](eighth.pdf) \
+[Macros](ninth.pdf) \
+[More on Macros](tenth.pdf) \
+[SQL Basics](sql.pdf) \
+[Review](eleventh.pdf) \
+[Practice Problem](another_problem.pdf) \
 [More Practice Problems](practice_problems.pdf)
 
-Have questions or need clarification? I'm here to help! Please feel free to reach out to me at ecomohr@gmail.com if you have any questions or need assistance as you navigate through these notes. I'm passionate about supporting fellow learners on their coding journey, and I'm more than happy to provide guidance or address any queries you may have. Let's learn and explore the world of programming together!
+Have questions or want some clarification? I'm here to help! Please feel free to reach out to me at ecomohr@gmail.com. I'm passionate about supporting fellow learners on their journey, and I'm more than happy to provide guidance in any way that I can. Let's learn and explore the world of programming together!
