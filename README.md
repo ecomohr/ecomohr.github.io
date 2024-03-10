@@ -20,6 +20,7 @@ Explore the fundamentals of programming through a curated collection of notes fr
 [Review](eighth.pdf)
 [Macros](ninth.pdf)
 [More on Macros](tenth.pdf)
+[SQL Basics](sql.pdf)
 [Review](eleventh.pdf)
 [Practice Problem](another_problem.pdf)
 [More Practice Problems](practice_problems.pdf)
