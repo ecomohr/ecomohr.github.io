@@ -29,6 +29,6 @@ Welcome to my collection of notes, inspired by my time at UC Berkeley where I ha
 \
 **CS161 : Computer Security** \
 [Final Concept Review Sheet, Part 1](161_final_review_pt1.pdf) \
-[Final Concept Review Sheet, Part 2](161_final_review_pt2.pdf) \
+[Final Concept Review Sheet, Part 2](161_final_review_pt2.pdf) 
 
 Have questions or want some clarification? I'm here to help! Please feel free to reach out to me at ecomohr@gmail.com. I'm passionate about supporting fellow learners on their journey, and I'm more than happy to provide guidance in any way that I can. Let's learn and explore the world of programming together!
