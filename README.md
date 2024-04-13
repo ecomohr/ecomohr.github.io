@@ -6,7 +6,7 @@ But beyond my passions lies a deeper story. Growing up, I harbored a fear of tec
 
 ## Notes 
 
-Welcome to my collection of notes, inspired by my time at UC Berkeley where I had the opportunity to venture through courses like CS61A and beyond. These notes are like snapshots of my journey—a blend of learning, teaching, and the occasional "aha!" moment. Whether you're embarking on your coding journey or seeking to reinforce your understanding of programming basics, I hope these notes can act as a helpful resource!
+Welcome to my collection of notes, inspired by my time in college. 
 
 **CS61a : Structure and Interpretation of Computer Programs** \
 [Control & Environments](first.pdf) \
@@ -27,6 +27,27 @@ Welcome to my collection of notes, inspired by my time at UC Berkeley where I ha
 \
 **CS161 : Computer Security** \
 [Final Concept Review Sheet, Part 1](161_final_review_pt1.pdf) \
-[Final Concept Review Sheet, Part 2](161_final_review_pt2.pdf) 
+[Final Concept Review Sheet, Part 2](161_final_review_pt2.pdf) \
+\
+**CS170 : Efficient Algorithms and Intractable Problems** \
+[Final Review](https://github.com/ecomohr/ecomohr.github.io/files/14968061/170.pdf) \
+[More Review](https://github.com/ecomohr/ecomohr.github.io/files/14968076/Final.Review.pdf) \
+\
+**CS188 : Introduction to Artificial Intelligence** \
+[Final Review](https://github.com/ecomohr/ecomohr.github.io/files/14968064/188.pdf) \
+\
+**EECS16B : Designing Information Devices and Systems II** \
+[Review Part 1](https://github.com/ecomohr/ecomohr.github.io/files/14968078/Review.Sections.MT.1.pdf) \
+[Review Part 2](https://github.com/ecomohr/ecomohr.github.io/files/14968079/review.sections.final.pdf) \
+\
+**Data Structures** \
+[Basics](https://github.com/ecomohr/ecomohr.github.io/files/14968067/data.structures.pdf)\
+\
+**Differential Equations** \
+[Final Review](https://github.com/ecomohr/ecomohr.github.io/files/14968071/differential_eqs.pdf) \
+\
+**Linear Algebra** \
+[Final Review](https://github.com/ecomohr/ecomohr.github.io/files/14968073/linear.algebra.pdf)
 
-Have questions or want some clarification? I'm here to help! Please feel free to reach out to me at ecomohr@gmail.com. I'm passionate about supporting fellow learners on their journey, and I'm more than happy to provide guidance in any way that I can. Let's learn and explore the world of programming together!
+
+Have questions or want some clarification? I'm here to help! Please feel free to reach out to me at ecomohr@gmail.com. I'm passionate about supporting fellow learners on their journey, and I'm more than happy to provide guidance in any way that I can!
