@@ -2,11 +2,11 @@
 
 Hey there, I’m Eknoor Kaur – a Bay Area native and software engineer. When I'm not immersed in the digital world, you'll find me cheering on the Golden State Warriors, lost in the pages of a captivating book, or wandering through nature. Occasionally, I can also be found indulging in a binge-watch of silly reality TV shows or teen dramas – because sometimes, a bit of whimsy is just what the heart needs. 
 
-But beyond my passions lies a deeper story. Growing up, I harbored a fear of technology, until I discovered Girls Who Code, a program that not only taught me the ropes but instilled in me a newfound confidence. It was a turning point that led me to pursue a career in tech, driven by a desire to make the field more accessible to others like me. Now, I find joy in sharing knowledge and empowering others through teaching or mentoring whenever I can – there's nothing quite like guiding others to discover their own potential. And amidst the hustle and bustle, spending time with friends and family keeps me grounded, rejuvenated, and reminded of life's simple joys.
+But beyond my passions lies a deeper story. Growing up, I harbored a fear of technology, until I discovered Girls Who Code, a program that not only taught me the ropes but instilled in me a newfound confidence. It was a turning point that led me to pursue a career in tech, driven by a desire to make the field more accessible to others like me. Now, I find joy in sharing knowledge and empowering others through teaching or mentoring whenever I can – there's nothing quite like guiding others to discover their own potential!
 
 ## Notes 
 
-Welcome to my collection of notes, inspired by my time in college. 
+Welcome to a collection of notes, inspired by my time in college. 
 
 **CS61a : Structure and Interpretation of Computer Programs** \
 [Control & Environments](first.pdf) \
@@ -50,4 +50,4 @@ Welcome to my collection of notes, inspired by my time in college.
 [Final Review](https://github.com/ecomohr/ecomohr.github.io/files/14968073/linear.algebra.pdf)
 
 
-Have questions or want some clarification? I'm here to help! Please feel free to reach out to me at ecomohr[at]gmail[dot]com. I'm passionate about supporting fellow learners on their journey, and I'm more than happy to provide guidance in any way that I can!
+Please feel free to reach out to me at ecomohr[at]gmail[dot]com for any question/clarifications!
