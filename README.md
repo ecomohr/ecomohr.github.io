@@ -50,4 +50,4 @@ Welcome to my collection of notes, inspired by my time in college.
 [Final Review](https://github.com/ecomohr/ecomohr.github.io/files/14968073/linear.algebra.pdf)
 
 
-Have questions or want some clarification? I'm here to help! Please feel free to reach out to me at ecomohr@gmail.com. I'm passionate about supporting fellow learners on their journey, and I'm more than happy to provide guidance in any way that I can!
+Have questions or want some clarification? I'm here to help! Please feel free to reach out to me at ecomohr[at]gmail[dot]com. I'm passionate about supporting fellow learners on their journey, and I'm more than happy to provide guidance in any way that I can!
